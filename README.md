@@ -3,7 +3,7 @@ Automatic Keyword/Keyphrase Extraction from Text Streams
 
 # About this Programming Code
 
-Two versions available:
+Four versions available:
 
 - One with Landmark type of stream window, for a stream of several documents at a time
 - One with Landmark type of stream window, for a single document incremental stream
